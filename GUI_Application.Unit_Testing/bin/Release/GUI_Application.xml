@@ -1,0 +1,213 @@
+<?xml version="1.0"?>
+<doc>
+    <assembly>
+        <name>GUI_Application</name>
+    </assembly>
+    <members>
+        <member name="F:GUI_Application.AboutUS.components">
+            <summary>
+            Required designer variable.
+            </summary>
+        </member>
+        <member name="M:GUI_Application.AboutUS.Dispose(System.Boolean)">
+            <summary>
+            Clean up any resources being used.
+            </summary>
+            <param name="disposing">true if managed resources should be disposed; otherwise, false.</param>
+        </member>
+        <member name="M:GUI_Application.AboutUS.InitializeComponent">
+            <summary>
+            Required method for Designer support - do not modify
+            the contents of this method with the code editor.
+            </summary>
+        </member>
+        <member name="T:GUI_Application.Circle">
+            <summary>
+            exdending shape class
+            </summary>
+        </member>
+        <member name="F:GUI_Application.Circle.x">
+            <summary>
+            getting value in variable for ellipse
+            </summary>
+        </member>
+        <member name="F:GUI_Application.Circle.y">
+            <summary>
+            getting value in variable for ellipse
+            </summary>
+        </member>
+        <member name="F:GUI_Application.Circle.size">
+            <summary>
+            getting value in variable for ellipse
+            </summary>
+        </member>
+        <member name="F:GUI_Application.Circle.size1">
+            <summary>
+            getting value in variable for ellipse
+            </summary>
+        </member>
+        <member name="M:GUI_Application.Circle.set(System.Int32,System.Drawing.Brush,System.Drawing.Color,System.Int32[])">
+            <summary>
+            getting value of starting coordinates, color, texture and radius
+            </summary>
+            <param name="texturestyle"></param>
+            <param name="bb"></param>
+            <param name="c1"></param>
+            <param name="list"></param>
+        </member>
+        <member name="F:GUI_Application.Command_Based.components">
+            <summary>
+            Required designer variable.
+            </summary>
+        </member>
+        <member name="M:GUI_Application.Command_Based.Dispose(System.Boolean)">
+            <summary>
+            Clean up any resources being used.
+            </summary>
+            <param name="disposing">true if managed resources should be disposed; otherwise, false.</param>
+        </member>
+        <member name="M:GUI_Application.Command_Based.InitializeComponent">
+            <summary>
+            Required method for Designer support - do not modify
+            the contents of this method with the code editor.
+            </summary>
+        </member>
+        <member name="F:GUI_Application.Line.x">
+            <summary>
+            geting value for drawing line
+            </summary>
+        </member>
+        <member name="F:GUI_Application.Line.y">
+            <summary>
+            geting value for drawing line
+            </summary>
+        </member>
+        <member name="F:GUI_Application.Line.size">
+            <summary>
+            geting value for drawing line
+            </summary>
+        </member>
+        <member name="F:GUI_Application.Line.size1">
+            <summary>
+            geting value for drawing line
+            </summary>
+        </member>
+        <member name="M:GUI_Application.Line.set(System.Int32,System.Drawing.Brush,System.Drawing.Color,System.Int32[])">
+            <summary>
+            geting value to draw line
+            
+            </summary>
+            <param name="texturestyle"></param>
+            texture for the design pattern 
+            <param name="bb"></param>
+            <param name="c1"></param>
+            <param name="list"></param>
+        </member>
+        <member name="F:GUI_Application.Main.components">
+            <summary>
+            Required designer variable.
+            </summary>
+        </member>
+        <member name="M:GUI_Application.Main.Dispose(System.Boolean)">
+            <summary>
+            Clean up any resources being used.
+            </summary>
+            <param name="disposing">true if managed resources should be disposed; otherwise, false.</param>
+        </member>
+        <member name="M:GUI_Application.Main.InitializeComponent">
+            <summary>
+            Required method for Designer support - do not modify
+            the contents of this method with the code editor.
+            </summary>
+        </member>
+        <member name="F:GUI_Application.GUI_Based.paintcolor">
+            <summary>
+            for color dialog box
+            </summary>
+        </member>
+        <member name="F:GUI_Application.GUI_Based.components">
+            <summary>
+            Required designer variable.
+            </summary>
+        </member>
+        <member name="M:GUI_Application.GUI_Based.Dispose(System.Boolean)">
+            <summary>
+            Clean up any resources being used.
+            </summary>
+            <param name="disposing">true if managed resources should be disposed; otherwise, false.</param>
+        </member>
+        <member name="M:GUI_Application.GUI_Based.InitializeComponent">
+            <summary>
+            Required method for Designer support - do not modify
+            the contents of this method with the code editor.
+            </summary>
+        </member>
+        <member name="M:GUI_Application.Program.Main">
+            <summary>
+            The main entry point for the application.
+            </summary>
+        </member>
+        <member name="M:GUI_Application.Rectangle.draw(System.Drawing.Graphics)">
+            <summary>
+            getting value of Graphics g
+            </summary>
+            <param name="g"></param>
+        </member>
+        <member name="M:GUI_Application.Rectangle.set(System.Int32,System.Drawing.Brush,System.Drawing.Color,System.Int32[])">
+            <summary>
+            getting value in variable and use of getter setter
+            </summary>
+            <param name="texturestyle"></param>
+            <param name="bb"></param>
+            <param name="c1"></param>
+            <param name="list"></param>
+        </member>
+        <member name="M:GUI_Application.Shape.draw(System.Drawing.Graphics)">
+            <summary>
+            passing Graphics value
+            </summary>
+            <param name="g"></param>
+        </member>
+        <member name="M:GUI_Application.Shape.set(System.Int32,System.Drawing.Brush,System.Drawing.Color,System.Int32[])">
+            <summary>
+            passing value from button click of main form to the shapes
+            </summary>
+            <param name="texturestyle"></param>
+            <param name="bb"></param>
+            <param name="c"></param>
+            <param name="list"></param>
+        </member>
+        <member name="M:GUI_Application.ShapeFactory.GetShape(System.String)">
+            <summary>
+            passing value on shapetype
+            </summary>
+            <param name="shapeType"></param>
+            <returns></returns>
+        </member>
+        <member name="M:GUI_Application.Triangle.set(System.Int32,System.Drawing.Brush,System.Drawing.Color,System.Int32[])">
+            <summary>
+            geting value of coordinates to draw triangle
+            </summary>
+            <param name="texturestyle"></param>
+            <param name="bb"></param>
+            <param name="c1"></param>
+            <param name="list"></param>
+        </member>
+        <member name="T:GUI_Application.Properties.Resources">
+            <summary>
+              A strongly-typed resource class, for looking up localized strings, etc.
+            </summary>
+        </member>
+        <member name="P:GUI_Application.Properties.Resources.ResourceManager">
+            <summary>
+              Returns the cached ResourceManager instance used by this class.
+            </summary>
+        </member>
+        <member name="P:GUI_Application.Properties.Resources.Culture">
+            <summary>
+              Overrides the current thread's CurrentUICulture property for all
+              resource lookups using this strongly typed resource class.
+            </summary>
+        </member>
+    </members>
+</doc>

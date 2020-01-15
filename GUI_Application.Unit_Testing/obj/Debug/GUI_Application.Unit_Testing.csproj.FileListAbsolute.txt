@@ -1,0 +1,17 @@
+D:\DOT NET PROJECT\ASSIGNMENT\Graphical_User_Interface\GUI_Application\GUI_Application.Unit_Testing\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTest.TestAdapter.dll
+D:\DOT NET PROJECT\ASSIGNMENT\Graphical_User_Interface\GUI_Application\GUI_Application.Unit_Testing\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.Interface.dll
+D:\DOT NET PROJECT\ASSIGNMENT\Graphical_User_Interface\GUI_Application\GUI_Application.Unit_Testing\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.dll
+D:\DOT NET PROJECT\ASSIGNMENT\Graphical_User_Interface\GUI_Application\GUI_Application.Unit_Testing\bin\Debug\GUI_Application.Unit_Testing.dll
+D:\DOT NET PROJECT\ASSIGNMENT\Graphical_User_Interface\GUI_Application\GUI_Application.Unit_Testing\bin\Debug\GUI_Application.Unit_Testing.pdb
+D:\DOT NET PROJECT\ASSIGNMENT\Graphical_User_Interface\GUI_Application\GUI_Application.Unit_Testing\bin\Debug\GUI_Application.exe
+D:\DOT NET PROJECT\ASSIGNMENT\Graphical_User_Interface\GUI_Application\GUI_Application.Unit_Testing\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.dll
+D:\DOT NET PROJECT\ASSIGNMENT\Graphical_User_Interface\GUI_Application\GUI_Application.Unit_Testing\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.dll
+D:\DOT NET PROJECT\ASSIGNMENT\Graphical_User_Interface\GUI_Application\GUI_Application.Unit_Testing\bin\Debug\GUI_Application.pdb
+D:\DOT NET PROJECT\ASSIGNMENT\Graphical_User_Interface\GUI_Application\GUI_Application.Unit_Testing\bin\Debug\GUI_Application.exe.config
+D:\DOT NET PROJECT\ASSIGNMENT\Graphical_User_Interface\GUI_Application\GUI_Application.Unit_Testing\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.xml
+D:\DOT NET PROJECT\ASSIGNMENT\Graphical_User_Interface\GUI_Application\GUI_Application.Unit_Testing\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.xml
+D:\DOT NET PROJECT\ASSIGNMENT\Graphical_User_Interface\GUI_Application\GUI_Application.Unit_Testing\obj\Debug\GUI_Application.Unit_Testing.csprojAssemblyReference.cache
+D:\DOT NET PROJECT\ASSIGNMENT\Graphical_User_Interface\GUI_Application\GUI_Application.Unit_Testing\obj\Debug\GUI_Application.Unit_Testing.csproj.CoreCompileInputs.cache
+D:\DOT NET PROJECT\ASSIGNMENT\Graphical_User_Interface\GUI_Application\GUI_Application.Unit_Testing\obj\Debug\GUI_Application.Unit_Testing.csproj.CopyComplete
+D:\DOT NET PROJECT\ASSIGNMENT\Graphical_User_Interface\GUI_Application\GUI_Application.Unit_Testing\obj\Debug\GUI_Application.Unit_Testing.dll
+D:\DOT NET PROJECT\ASSIGNMENT\Graphical_User_Interface\GUI_Application\GUI_Application.Unit_Testing\obj\Debug\GUI_Application.Unit_Testing.pdb
